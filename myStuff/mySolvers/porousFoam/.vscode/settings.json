@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "porousFoam.C": "cpp",
+        "localDarcyFoam.C": "cpp"
+    }
+}

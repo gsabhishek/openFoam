@@ -1,0 +1,2 @@
+cellSet porousZone new boxToCell (0 0 0)(40 40 20)
+cellZoneSet porousZone new setToCellZone porousZone
